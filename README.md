@@ -1,5 +1,4 @@
-# Zoo da Leitura
-<img src="" width="350">
+<img src="https://github.com/devjoaofarias/ZooLeituraProject/blob/main/img/ZOO%20da%20Leitura.png">
 
 ### Projeto desenvolvido pelos alunos 
 - [Bruno Imanaka](https://github.com/BrunoImanaka)
@@ -12,4 +11,4 @@
 - [Nicolas Ribeiro](https://github.com/ribeironicolas)
 - [Vitória Brito](https://github.com/Vitoriabrt)
 
-Esse projeto foi desenvolvido por um grupo de 10 estudantes da Universidade Cidade de São Paulo do curso de Análise e Desenvolvimento de Sistemas, com a intenção de aprimorar a educação das crianças de forma mais lúcida, associadas com a internet, fazendo com que tenham ainda mais interesse em aprender.
+Esse projeto foi desenvolvido por um grupo de 09 estudantes da Universidade Cidade de São Paulo do curso de Análise e Desenvolvimento de Sistemas, com a intenção de aprimorar a educação das crianças de forma mais lúcida, associadas com a internet, fazendo com que tenham ainda mais interesse em aprender.
