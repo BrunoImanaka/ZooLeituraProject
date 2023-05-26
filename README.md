@@ -1,5 +1,5 @@
 <img src="https://github.com/devjoaofarias/ZooLeituraProject/blob/main/img/ZOO%20da%20Leitura.png">
-<img align="right" width="540" src="https://github.com/devjoaofarias/ZooLeituraProject/blob/main/img/mundo.png">
+<img align="right" width="530" src="https://github.com/devjoaofarias/ZooLeituraProject/blob/main/img/mundo.png">
 
 ### Projeto desenvolvido pelos alunos 
 - [Bruno Imanaka](https://github.com/BrunoImanaka)
